@@ -10,8 +10,8 @@ format:
     comments:
       hypothesis: true
   docx: default
-  jats: default
-  agu-pdf: default
+  agu-pdf: 
+    mainfont: "Noto Serif CJK KR"
 
 
 
