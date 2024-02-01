@@ -1,5 +1,5 @@
 ---
-title: La Palma No 한글??
+title: 한글이 된다고??
 author:
   - name: Steve Purves
     orcid: 0000-0002-0760-5497
